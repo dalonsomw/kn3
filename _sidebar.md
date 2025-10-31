@@ -1,4 +1,4 @@
-* [🏠 Inicio](README.md)
+* [🏠 Inicio](./)
 
 * **Comenzar**
   * [Primeros Pasos](comenzar/pasos.md)
